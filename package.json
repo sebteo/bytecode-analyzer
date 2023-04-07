@@ -1,0 +1,9 @@
+{
+  "name": "bytecode-analyzer",
+  "version": "1.0.0",
+  "description": "Reveal Op Codes analysis",
+  "main": "index.js",
+  "repository": "https://github.com/sebteo/bytecode-analyzer",
+  "author": "Sebastian Teo",
+  "license": "MIT"
+}
